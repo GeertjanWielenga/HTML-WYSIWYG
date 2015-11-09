@@ -2,4 +2,4 @@
 
 <p>A visual pane on top of HTML source files.</p>
 
-<img src="pics/overview.png"/>
+<img style="border:1px solid black" src="pics/overview.png"/>
